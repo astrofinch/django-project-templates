@@ -1,0 +1,19 @@
+# These things you'll need in pretty much every Django project:
+django >= 1.2, < 1.3
+django-debug-toolbar
+docutils
+fabric >= 0.9.0
+psycopg2
+python-dateutil
+python-memcached
+pytz
+South
+
+# These are also quite common for webapps:
+# BeautifulSoup >= 3.0.8.1
+# feedparser
+# geopy
+# httplib2
+# lxml
+# PIL
+# python-twitter
